@@ -129,7 +129,7 @@ class SearchHistory extends Component {
 
         <div className="main_history_container">
           <div className="history_item_card">
-            <ul>
+            <ul className="history_list">
               {searchResults.length === 0 && (
                 <p className="no_history_para">There is no history to show</p>
               )}

@@ -60,3 +60,8 @@
 .no_history_para {
   text-align: center;
 }
+
+.history_list {
+  list-style-type: none;
+  padding: 0px;
+}

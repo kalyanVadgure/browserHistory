@@ -1,7 +1,7 @@
 .history_item_container {
-  display: flex;
   font-family: 'roboto';
   margin: 10px 0px 5px 0px;
+  display: flex;
 }
 
 .history_website_container {
